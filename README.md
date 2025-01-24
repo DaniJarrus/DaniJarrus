@@ -1,4 +1,4 @@
-<h1 style="text-align:center;">👋 Hi, I’m @DaniJarrus</h1>
+<center><h1>👋 Hi, I’m @DaniJarrus</h1></center>
 <br>
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...\
