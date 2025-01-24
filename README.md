@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m @DaniJarrus</h1>
-\
+
 ### 👀 I’m interested in:
 
 ### 🌱 I’m currently learning:
