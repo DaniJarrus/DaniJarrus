@@ -1,8 +1,8 @@
-<h1>👋 Hi, I’m @DaniJarrus</h1>
-<br>
-<h2>👀 I’m interested in:</h2>
-<br>
-<h2>🌱 I’m currently learning:</h2>
+## 👋 Hi, I’m @DaniJarrus</h1>
+\
+### 👀 I’m interested in:
+
+### 🌱 I’m currently learning:
 <br>
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 <br>
