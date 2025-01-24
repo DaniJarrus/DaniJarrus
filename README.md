@@ -3,13 +3,11 @@
 ### 👀 I’m interested in:
 
 ### 🌱 I’m currently learning:
-<br>
+
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-<br>
+
 - 💞️ I’m looking to collaborate on ...
-<br>
 - 📫 How to reach me ...
-<br>
 - ⚡ Fun fact: ...
 
 <!---
