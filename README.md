@@ -1,5 +1,5 @@
 <h1 style="text-align:center;">👋 Hi, I’m @DaniJarrus</h1>
-\
+<br>
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...\
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
