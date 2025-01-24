@@ -3,10 +3,13 @@
 <h2>👀 I’m interested in:</h2>
 <br>
 <h2>🌱 I’m currently learning:</h2>
+<br>
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+<br>
 - 💞️ I’m looking to collaborate on ...
+<br>
 - 📫 How to reach me ...
-- 😄 Pronouns: ...
+<br>
 - ⚡ Fun fact: ...
 
 <!---
