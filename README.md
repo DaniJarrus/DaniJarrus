@@ -24,6 +24,7 @@
 ### 📫 How to reach me ...
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dvillegasmartinez24@gmail.com)
 ### ⚡ Fun fact: ...
+- Big fan of MiduDev(https://github.com/midudev)
 
 <!---
 DaniJarrus/DaniJarrus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
