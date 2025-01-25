@@ -16,8 +16,11 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)\
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
-- 📫 How to reach me ...
-- ⚡ Fun fact: ...
+### 📫 How to reach me ...
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)\
+dvillegasmartinez24@gmail.com
+
+### ⚡ Fun fact: ...
 
 <!---
 DaniJarrus/DaniJarrus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
